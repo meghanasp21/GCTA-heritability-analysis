@@ -1,0 +1,1 @@
+# GCTA-heritability-analysis
